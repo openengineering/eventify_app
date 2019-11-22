@@ -29,4 +29,5 @@ https://github.com/openengineering/eventify_app/
 ## How to run
 * Run via docker container
 * Run via "mvn clean spring-boot:run" command
+
 Please change the database values under application.properties file

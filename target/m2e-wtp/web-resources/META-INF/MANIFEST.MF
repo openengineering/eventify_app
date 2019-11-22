@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Akshay
+Build-Jdk: 13.0.1
+Implementation-Title: eventify
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.groupfifteen.eventify_app
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/eventify
+Created-By: Maven Integration for Eclipse
+

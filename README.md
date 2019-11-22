@@ -25,3 +25,8 @@ https://github.com/openengineering/eventify_app/
 * Database - MySQL
 * Library - JDBC, JSTL, Bcrypt, Java.util, 
 * Server - Tomcat 
+
+## How to run
+* Run via docker container
+* Run via "mvn clean spring-boot:run" command
+Please change the database values under application.properties file
